@@ -1,0 +1,4 @@
+Train MSE: 0.000098
+Train R2: 0.983431
+Val MSE: 0.000140
+Val R2: 0.978516
