@@ -8,9 +8,9 @@ behavior through high-throughput simulations and interpretable machine learning]
 ---
 
 ## 1. Contents
-── project/ # 数据目录 运行脚本
-── results/ # 输出结果目录
-── README.md # 本文件
+── project/ # data; script
+── results/ # out files
+── README.md # this text
 
 
 ## 2. System Requirements
